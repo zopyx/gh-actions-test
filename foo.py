@@ -1,8 +1,7 @@
 import os
 
 def hello():
-    text = "world"
-    return text
+    return "world"
 
 def world():
     return "hello"
